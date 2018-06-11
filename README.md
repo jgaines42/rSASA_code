@@ -7,7 +7,7 @@ See details of code and cite  "J. C. Gaines, S. Acebes, A. Virrueta, M. Butler, 
 Install Naccess from http://wolf.bms.umist.ac.uk/naccess/ \
 Then run the code from the same folder
 
-run_Naccess(pdb_folder, pdb_name, save_folder)\
+run_Naccess(pdb_folder, pdb_name, save_folder)
 ## Input:
 pdb_folder: full path the folder with \*.mat file of the pdb. End path
 name with / \
