@@ -15,9 +15,9 @@ pdb_name: Name of the pdb \
 save_folder: full path to folder to save results in. End path name with / \
 
 ## Output:
-\*_sasa_data.mat: contains the following columns: \
-   1: Residue id \
-   2: rSASA \
-   3: SASA of residue in context of protein \
-   4: SASA in context of dipeptide (Ca,C,O of prior amino acid and N,Ca, H of next amino acid)\
+\*_sasa_data.mat: contains the following columns:
+   1. Residue id
+   2. rSASA
+   3. SASA of residue in context of protein
+   4. SASA in context of dipeptide (Ca,C,O of prior amino acid and N,Ca, H of next amino acid)
  
