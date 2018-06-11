@@ -8,13 +8,13 @@ Install Naccess from http://wolf.bms.umist.ac.uk/naccess/ \
 Then run the code from the same folder
 
 run_Naccess(pdb_folder, pdb_name, save_folder)\
-Input: 
+## Input:
 pdb_folder: full path the folder with \*.mat file of the pdb. End path
 name with / \
 pdb_name: Name of the pdb \
 save_folder: full path to folder to save results in. End path name with / \
 
-Output: \
+## Output:
 \*_sasa_data.mat: contains the following columns: \
    1: Residue id \
    2: rSASA \
